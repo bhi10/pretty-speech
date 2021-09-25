@@ -1,2 +1,4 @@
 # pretty-speech
-Chrome extension for listen from any website.
+
+Listen aloud, any website.
+Chrome extenstion.
